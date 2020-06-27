@@ -11,6 +11,7 @@
 </head>
 
 <body>
+    <?php echo '<p> hello em iu </p>';?> 
     <div id="menu_top">
         <div class="menutop">
             <ul>
